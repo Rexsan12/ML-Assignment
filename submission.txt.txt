@@ -1,0 +1,5 @@
+Dataset
+
+It is the dataset that is mostly used in Kaggle's datasets. The data set is in CSV format. 
+
+Dataset Link: https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
